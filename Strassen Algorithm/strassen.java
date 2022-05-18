@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class strassen {
+public class Strassen {
 	public static void main(String[] args) {
         int n, cutoff;
         Matrix a, b;

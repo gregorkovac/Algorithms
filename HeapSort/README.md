@@ -1,3 +1,3 @@
 # Heapsort
 
-Enter a number of elements `N` and then `N` elements. The program will print the sorted elements.
+Enter a number of numbers `N` and then `N` numbers. The program will print the sorted elements.

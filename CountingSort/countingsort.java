@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class countingsort {
+public class CountingSort {
     public static void main(String[] args) {
         int n;
         int[] a, numOnes, c, sorted;

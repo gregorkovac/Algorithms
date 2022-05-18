@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class heapsort {
+public class HeapSort {
     public static void main(String[] args) {
         int n;
         int[] a;

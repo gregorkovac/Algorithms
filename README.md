@@ -5,7 +5,7 @@ This repository contains some algorithms I implemented during the course Algorit
 
 You can find descriptions of the individual algorithms in their folders.
 
-**Warning:** if you are a FRI student, feel free to use the provided code to help yourself with homeworks, but don't copy it. You don't want to get into any trouble, do you? 😅
+**🚨 WARNING:** if you are a FRI student, feel free to use the provided code to help yourself with homeworks, but don't copy it. You don't want to get into any trouble, do you? 😅
 
 ## How to run the code
 

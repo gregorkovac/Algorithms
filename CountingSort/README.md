@@ -1,4 +1,4 @@
-# Radix sort
+# Counting sort
 
 **Description:** This algorithm sorts `N` numbers based on the number of ones in their binary representation.
 

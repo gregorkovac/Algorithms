@@ -1,4 +1,4 @@
-# Subsequence with the buggest sum
+# Subsequence with the biggest sum
 
 **Description:** This algorithm finds the subsequence with the biggest sum in an array of numbers using the divide and conquer method. It also prints all the steps.
 

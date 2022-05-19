@@ -24,7 +24,7 @@ public class MaxFlow {
 			net.addConnection(n1, n2, k);
 		}
 
-		net.maxFlow(0, n-1);
+		System.out.println(net.maxFlow(0, n-1));
 
 		sc.close();
     }

@@ -1,6 +1,6 @@
 # Discrete Fourier Transformation (`n`-th primitive root)
 
-**Description:** This algorithm finds the smallest primer number `p`, such that there is at least one 'n'-th primitive root in 'Z_n'. It also finds all of the 'n'-th primitive roots and the corresponding Vandermonde matrix, which is used in the discrete Fourier transformation.
+**Description:** This algorithm finds the smallest primer number `p`, such that there is at least one `n`-th primitive root in `Z_n`. It also finds all of the `n`-th primitive roots and the corresponding Vandermonde matrix, which is used in the discrete Fourier transformation.
 
 **Usage:** The input consists of a single number `n`. The output will be of the form:
 ```
